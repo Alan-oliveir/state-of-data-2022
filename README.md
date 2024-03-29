@@ -21,3 +21,6 @@ Neste projeto faço a análise da distribuição das faixas salariais para os pr
 ## Resultados
 - Os profissionais de análise tendem a receber salários inferiores aos profissionais de ciência ou engenharia de dados.
 - A quantidade de vagas disponíveis na área tendem a ser maior para analistas de dados.
+
+___
+#### Veja no [Kaggle](https://www.kaggle.com/code/alanogoncalves/state-data-brazil)
