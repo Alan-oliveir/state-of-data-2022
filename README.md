@@ -1,4 +1,4 @@
-<a target="_blank" href="https://colab.research.google.com/github.com/Alan-oliveir/state-of-data-2022/blob/main/state_of_data_2022.ipynb">
+<a target="_blank" href="https://colab.research.google.com/github/Alan-oliveir/state-of-data-2022/blob/main/state_of_data_2022.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
